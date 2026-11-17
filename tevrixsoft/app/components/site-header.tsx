@@ -8,11 +8,10 @@ const serviceLinks = [
 
 const primaryLinks = [
   { label: "Home", href: "/" },
+  { label: "Portfolio", href: "/#work" },
   { label: "About Us", href: "/#about-us" },
-  { label: "Portfolio", href: "/#portfolio" },
-  { label: "Reviews", href: "/#reviews" },
-  { label: "Careers", href: "/#careers" },
-  { label: "Blog", href: "/#blog" },
+  { label: "Approach", href: "/#approach" },
+  { label: "FAQs", href: "/#faq" },
   { label: "Contact Us", href: "/#contact" },
 ];
 
